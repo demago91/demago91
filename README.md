@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @demago91
 - 👀 I’m interested in C#, Sql
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Kotlin
